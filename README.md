@@ -86,12 +86,6 @@ composer test
 
 If you discover any security related issues, please email mail@timothydc.be instead of using the issue tracker.
 
-## Credits
-
-- [Timothy De Cort][link-author]
-- [Gunharth][link-gunharth] (https://github.com/gunharth/laravel-lightspeed-api)
-- [All Contributors][link-contributors]
-
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
